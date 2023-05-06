@@ -1,0 +1,16 @@
+{
+  "name": "ia",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "license": "",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "ia": "node app/index.js"
+  },
+  "dependencies": {
+    "cli-markdown": "^3.0.3",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
